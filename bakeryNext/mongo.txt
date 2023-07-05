@@ -1,0 +1,7 @@
+
+
+DATABASE=mongodb+srv://user23:iNdoL6k9w2xbyFHp@cluster0.ywb13ec.mongodb.net/?retryWrites=true&w=majority
+
+
+user23
+iNdoL6k9w2xbyFHp
